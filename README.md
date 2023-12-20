@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesharkawy
 - 👀 I’m interested in Machine Learning and Full Stack Development
-- 🌱 I’m currently learning Python Keras and Tensorflow, as well as Flask
+- 🌱 I’m currently learning Python Keras, Tensorflow, Flask, and Django
 - 💞️ I’m looking to collaborate on freelancing projects relating to web development or Deep Learning
 - 📫 How to reach me: thesharkawy@aucegypt.edu
 
